@@ -1,0 +1,17 @@
+1. npm init 
+
+2. add package.json: "bin": {
+    "reactbm": "bin/reactbm.js"
+  }
+
+3. create folder bin an file reactbm.js
+
+4. npm login 
+
+5. npm publish --access=public
+
+# common errors
+1. "You cannot publish over the previously published version 1.0.0."
+
+Solution:
+change the version in package.json

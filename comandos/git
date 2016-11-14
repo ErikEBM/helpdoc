@@ -1,0 +1,13 @@
+#init a repository
+1. git init
+#add all to a stage
+2. git add .
+#commit
+3. git commit -m "name"
+
+-------------------------------
+
+#push to cloud
+4. git push -u origin master 
+#pull to cloud
+5. git pull
